@@ -1,1 +1,2 @@
 # Teste-de-copilot
+Boa tarde sou o Matheus e realizei o teste de identificamento e descrição do copilot em 4 imagens que peguei no google, ele demonstrou uma otima capacidade conseguindo descrever duas perfeitamente, uma mais ou menos e outra sem conseguir identificar, pelo tipo das imagens percebemos que a capacidade da ia esta muito limitada ainda a imagens conhecidas ou com coisas que ela ja tenha bastande informações sobre, impossibilitando a analise de algo mais fora do comum(como era o caso do calçao do shrek).
